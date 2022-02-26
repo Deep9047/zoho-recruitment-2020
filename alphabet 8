@@ -1,4 +1,7 @@
-  public static void main(String[] args)
+ class alphabet {
+
+ 
+ public static void main(String[] args)
     {
 
 
